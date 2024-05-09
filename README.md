@@ -1,5 +1,4 @@
 # Sentimental Analysis on Business
-**Project Synopsis: Sentiment Analysis on Business**
 
 **Introduction:**
 In response to the growing need for data-driven decision-making in the business world, the project "Sentiment Analysis on Business" was initiated. Harnessing the power of Python programming language and Natural Language Processing (NLP) techniques, this project aimed to delve into the sentiment embedded within textual data associated with various business entities. By deciphering sentiment, businesses could gain valuable insights into public perception, thereby facilitating more informed strategies and actions.
